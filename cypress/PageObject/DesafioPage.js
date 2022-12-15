@@ -2,7 +2,7 @@ class Pagina {
 
     acessoPage() {
 
-        cy.visit('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+        cy.visit('https://opensource-demo.orangehrmlive.com')
 
     }
 
