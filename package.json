@@ -1,0 +1,14 @@
+{
+  "name": "desafio-cypress",
+  "version": "1.0.0",
+  "description": "Desafio final de automação de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Hugo Facundo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
